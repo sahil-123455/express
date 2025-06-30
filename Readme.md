@@ -22,6 +22,8 @@
   - [Triagers](#triagers)
     - [Emeritus Triagers](#emeritus-triagers)
 - [License](#license)
+- sahil gupta
+- 
 
 
 [![NPM Version][npm-version-image]][npm-url]
